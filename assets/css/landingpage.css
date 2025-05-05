@@ -121,7 +121,7 @@ html {
     background-color: #f8f8f8;
 
     /* Gambar background */
-    background-image: url('/assets/images/daftar.png'), url('/assets/images/daftar.png');
+    background-image: url('../images/daftar.png'), url('../images/daftar.png');
     background-size: 12%, 12%;
     background-repeat: no-repeat, no-repeat;
     background-position: right 40px bottom 50px, left 40px bottom 40px;
